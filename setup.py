@@ -33,7 +33,7 @@ setuptools.setup(
     install_requires=[
           "tensorflow>=2.1.0",
           "pyyaml>=5.3",
-          "opencv-python>=4.4",
+          "opencv-python>=4.0",
           "numpy",
           "requests>=2.24.0",
       ],
